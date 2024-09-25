@@ -1,5 +1,6 @@
 # emart_app
 
+<img src="https://github.com/user-attachments/assets/72aec46f-6a43-47b5-9386-8310d0fd0709" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%"> 
 A new Flutter project.
 
 ## Getting Started
