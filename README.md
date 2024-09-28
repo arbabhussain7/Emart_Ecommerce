@@ -19,12 +19,13 @@
  <img src="https://github.com/user-attachments/assets/1f266009-f6db-423d-b231-7d3368959a5d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%">
 
   </p>
+<p>
+  <img src="https://github.com/user-attachments/assets/3efb86e4-1480-4006-9b68-c25148eff7b5" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%"> 
+ <img src="https://github.com/user-attachments/assets/2561e203-46c8-47bb-a7fd-85115f46ae76" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="20%"> 
+ <img src="https://github.com/user-attachments/assets/c76cb098-8101-4fc2-9bd0-1dc7a79e6b35" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%">
+ <img src="https://github.com/user-attachments/assets/dbe7231f-0ded-4ea6-a146-370c3c911b8b" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%">
 
-
-
-
-
-
+  </p>
 
 
 # Emart - Ecommerce Mobile Application
